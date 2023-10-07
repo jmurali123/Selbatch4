@@ -1,3 +1,4 @@
 First line by Dev1
 Added by feature branch
 Second line from Dev2
+Fourth line from feature
